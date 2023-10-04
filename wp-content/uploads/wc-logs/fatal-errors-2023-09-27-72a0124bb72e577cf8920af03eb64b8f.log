@@ -1,0 +1,300 @@
+2023-09-27T13:50:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\header.php:15
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(48): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(2): get_header()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\header.php on line 15
+
+2023-09-27T13:51:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:2
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 2
+
+2023-09-27T13:52:16+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:11:25+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:12:22+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:15:17+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\index.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:22:54+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:22:55+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:25:54+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:26:17+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:26:21+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\single.php(48): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:26:54+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:27:00+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:27:02+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:27:09+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:28:58+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:29:12+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:32:16+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T14:34:15+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\templates\archive-product.php(105): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:39:46+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:41:54+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:42:33+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:54:03+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:54:18+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+
+2023-09-27T16:57:06+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php:20
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-includes\template.php(785): require_once()
+#1 C:\OSPanel\domains\wordpress\wp-includes\template.php(720): load_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\general-template.php(92): locate_template()
+#3 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\front-page.php(9): get_footer()
+#4 C:\OSPanel\domains\wordpress\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wordpress\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wordpress\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\footer.php on line 20
+

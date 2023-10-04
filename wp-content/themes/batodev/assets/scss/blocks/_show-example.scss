@@ -1,0 +1,64 @@
+.show-example {
+    padding: get-vw(100px) 0;
+    background-color: #F4F4F4;
+
+    &__image {
+        @media screen and (max-width: 768px) {
+            text-align: center;
+        }
+        img {
+            max-width: 624px;
+            width: 100%;
+            @media screen and (max-width: 768px) {
+                margin: 0 auto;
+            }
+        }
+    }
+
+    &__description {
+        max-width: 470px;
+        margin: 0 0 0 auto;
+        text-align: center;
+        @media screen and (max-width: 768px) {
+            margin: 50px auto 0 auto;
+        }
+
+        .subtitle {
+            font-family: $fontLora;
+            font-size: 22px;
+            font-style: italic;
+            font-weight: 500;
+            color: $main;
+        }
+
+        h2 {
+            font-size: get-vw(62px);
+            font-style: normal;
+            font-weight: 400;
+            color: #242424;
+            font-family: $font;
+
+            strong {
+                display: block;
+                font-size: get-vw(45px);
+                font-weight: 400;
+            }
+        }
+
+        &-links {
+            margin-top: 30px;
+            .button {
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 500;
+                border: 1px solid $gray;
+                color: #242424;
+                &:first-child {
+                    background-color: $gray;
+                    color: white;
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+}

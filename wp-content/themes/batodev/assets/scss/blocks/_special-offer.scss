@@ -1,0 +1,53 @@
+.special-offer {
+    padding: get-vw(100px) 0;
+    background-color: #F4F4F4;
+
+    &__image {
+        img {
+            max-width: 586px;
+            width: 100%;
+            @media screen and (max-width: 800px){
+                max-width: 100%;
+            }
+        }
+    }
+
+    &__right {
+        margin: 0 0 0 auto;
+        max-width: 470px;
+        width: 100%;
+        @media screen and (max-width: 800px) {
+            margin: 30px auto 0 auto;
+            text-align: center;
+        }
+
+        p {
+            color: #C3935B;
+            font-size: 22px;
+            font-style: italic;
+            font-weight: 500;
+        }
+
+        h2 {
+            font-size: get-vw(62px);
+            font-style: normal;
+            font-weight: 400;
+
+            strong {
+                display: block;
+                font-size: get-vw(45px);
+            }
+        }
+
+        &-link {
+            margin-top: 30px;
+        }
+
+        a {
+            font-size: 14px;
+            color: white;
+            background-color: $gray;
+            border-color: $gray;
+        }
+    }
+}

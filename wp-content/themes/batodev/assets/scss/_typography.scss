@@ -1,0 +1,95 @@
+body {
+  font-family: $font;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.col-sm-6 {
+  @media screen and (min-width: 320px) {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+h3 {
+  font-size: get-vw(24px);
+  line-height: 1.2;
+  text-align: center;
+  font-family: $font;
+}
+
+h2 {
+  font-size: get-vw(62px);
+  font-style: normal;
+  font-weight: 400;
+  color: #242424;
+  font-family: $font;
+
+  strong {
+    font-size: get-vw(45px);
+    font-weight: 400;
+  }
+}
+
+.button {
+  font-family: $fontLora;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  border: 1px solid white;
+}
+
+h4 {
+  font-size: get-vw(14px);
+  color: #333333;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+a {
+  font-family: $font;
+}
+
+p {
+  font-family: $font;
+  font-size: 14px;
+}
+
+.button {
+  font-size: 24px;
+  color: $main;
+  border: 1px solid $main;
+  border-radius: 2px;
+}
+.slick-slide {
+  margin: 0 15px;
+}
+
+/* the parent */
+.slick-list {
+  margin: 0 -15px;
+}
+
+.slick-prev-custom,
+.slick-next-custom {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: $gray;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.slick-prev-custom {
+  left: -25px;
+}
+
+.slick-next-custom {
+  right: -25px;
+}

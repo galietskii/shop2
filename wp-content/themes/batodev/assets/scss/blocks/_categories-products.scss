@@ -1,0 +1,91 @@
+.categories-products {
+    background-color: #F4F4F4;
+    padding: get-vw(100px) 0;
+    .block {
+        @media screen and (max-width: 1024px) {
+            margin-right: 15px;
+        }
+    }
+    &__left {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        background-size: cover;
+        padding: 25px;
+        @media screen and (max-width: 1024px) {
+            background-position: right;
+        }
+
+        &-subtitle {
+            font-family: $fontLora;
+            font-size: 22px;
+            font-style: italic;
+            font-weight: 500;
+            color: #242424;
+        }
+
+
+        &-description {
+            h2 {
+                font-size: 54px;
+                font-style: normal;
+                font-weight: 400;
+                color: #242424;
+            }
+
+            p {
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                text-transform: uppercase;
+            }
+        }
+
+        a {
+            color: #FFF;
+            font-size: 14px;
+            border-color: $gray;
+            background-color: $gray;
+        }
+    }
+
+    &__all {
+        display: flex;
+        justify-content: space-between;
+        @media screen and (max-width: 768px) {
+            margin-top: 20px;
+        }
+
+        h2 {
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+
+        &-block {
+            display: flex;
+            border-bottom: 1px solid var(--Grey, #DFDFDF);
+            padding-bottom: 10px;
+
+            img {
+                width: 65px;
+                height: 65px;
+            }
+
+            div {
+                margin-left: 17px;
+
+                p {
+                    color: #242424;
+                    font-size: 14px;
+                }
+
+                .price {
+                    color: $main;
+                    margin-top: 5px;
+                }
+            }
+        }
+    }
+}

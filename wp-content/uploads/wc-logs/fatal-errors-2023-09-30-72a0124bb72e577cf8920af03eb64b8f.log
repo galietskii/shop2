@@ -1,0 +1,677 @@
+2023-09-30T05:00:39+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:00:55+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:01:24+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:02:17+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:02:23+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:06:02+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:07:17+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:11:34+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:11:52+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:18:53+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:19:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:19:48+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:20:23+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:21:20+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:22:24+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:22:52+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:23:18+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:23:27+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:28:57+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(92): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:29:33+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:29:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:30:16+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:30:24+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:30:33+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:31:07+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:31:41+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:33:13+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:36:01+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:42:03+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:43:23+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:44:38+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:47:24+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:47:46+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:49:04+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T05:56:48+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php:24
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OSPanel\domains\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php(93): woocommerce_mini_cart()
+#3 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#5 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-mast in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\woocommerce\cart\mini-cart.php on line 24
+
+2023-09-30T10:39:23+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 73
+
+2023-09-30T10:41:28+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 73
+
+2023-09-30T10:53:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php on line 3
+
+2023-09-30T10:53:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php on line 3
+
+2023-09-30T10:54:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php on line 3
+
+2023-09-30T10:54:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section-section.php on line 3
+
+2023-09-30T10:55:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:56:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(914): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_ajax_fetch_block()
+#8 C:\OSPanel\ in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:57:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:57:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:57:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:57:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:57:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:58:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:58:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:58:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:58:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:58:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:59:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T10:59:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+
+2023-09-30T11:00:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_filed() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php:3
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callback()
+#8 C:\OS in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\blog-section.php on line 3
+

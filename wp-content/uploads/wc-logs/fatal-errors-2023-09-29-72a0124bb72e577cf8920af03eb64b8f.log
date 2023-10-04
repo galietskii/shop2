@@ -1,0 +1,37 @@
+2023-09-29T12:47:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php:67
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_render_block_callb in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 67
+
+2023-09-29T14:17:39+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 70
+
+2023-09-29T14:17:48+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 70
+
+2023-09-29T15:43:00+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php:68
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_rende in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 68
+
+2023-09-29T15:43:26+00:00 CRITICAL Uncaught Error: Call to a member function add_to_cart_url() on null in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php:68
+Stack trace:
+#0 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(676): include()
+#1 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(310): acf_block_render_template()
+#2 C:\OSPanel\domains\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#3 C:\OSPanel\domains\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(650): do_action()
+#5 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(569): acf_render_block()
+#6 C:\OSPanel\domains\wordpress\wp-content\plugins\advanced-custom-fields-pro-master\pro\blocks.php(502): acf_rendered_block()
+#7 C:\OSPanel\domains\wordpress\wp-includes\class-wp-block.php(258): acf_rende in C:\OSPanel\domains\wordpress\wp-content\themes\batodev\templates\blocks\featured-products-section.php on line 68
+

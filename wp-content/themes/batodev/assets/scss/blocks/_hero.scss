@@ -1,0 +1,42 @@
+.hero {
+    padding: get-vw(240px) 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    @media screen and (max-width: 768px) {
+        padding: 150px 0 50px;
+    }
+    h1 {
+        font-family: $font;
+        font-size: get-vw(54px);
+      }
+    &__block {
+        margin-left: 60px;
+        &-subtitle {
+            font-family: $fontLora;
+            font-size: 22px;
+            font-style: italic;
+            font-weight: 400;
+        }
+
+        &-links {
+            margin-top: 35px;
+
+            a {
+                font-size: 14px;
+                font-style: normal;
+                font-weight: 500;
+                border: 1px solid #FFF;
+                padding: 10px 15px;
+                color: white;
+                text-transform: uppercase;
+                &:first-child {
+                    color: black;
+                    background: white;
+                    margin-right: 15px;
+                }
+
+            }
+        }
+    }
+}
